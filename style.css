@@ -14,7 +14,7 @@ body {
     margin: 1px;
 }
 
-#hit, #stay {
+#hit, #stay, #newGame {
     width: 100px;
     height: 50px;
     font-size: 20px;
